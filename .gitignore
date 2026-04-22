@@ -3,12 +3,7 @@ data/processed/
 data/features/
 data/rename.py
 urban/
-.venv/
-venv/
-ENV/
-build/
-dist/
-*.dll
-*.zip
+docs/
 *.pyc
-__pycache__/
+data/models/baselines/*_best.pth
+data/models/baselines/*_report.json
