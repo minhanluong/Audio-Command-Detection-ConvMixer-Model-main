@@ -1,0 +1,14 @@
+.env/
+data/processed/
+data/features/
+data/rename.py
+urban/
+.venv/
+venv/
+ENV/
+build/
+dist/
+*.dll
+*.zip
+*.pyc
+__pycache__/
